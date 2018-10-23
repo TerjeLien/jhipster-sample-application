@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "com.lien.test",
+    "packageFolder": "com/lien/test",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YTZkY2EyMDM5ODliMmIzMDAzMGJjNWQzYzAwOTQxYTBmMjAwZTY3MTk5OTc5ZTdjODhjZDk4NDU1ZWVkYWQ0NzdlMmMzNTFlNzYxYjRhNzA4YTVjZjViMTc4MmVhM2I0ODM2ZWQyOGY4NDgyNTI3NWEyMjExZmZhMWVkMjlmNmY=",
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "TerjeLien",
+  "repository-name": "jhipster-sample-application"
+}
